@@ -6,7 +6,7 @@
 ---
 
 ### 🌍 About Me
-- 🎓 Marine Sciences student
+- 🎓 Marine Sciences student planning to do a Master in Applied Data Science
 - 💻 Learning Python, R, and in general building tools that solve real problems
 - 📸 Analog & digital cinematographer
 - 🚐 adventurer and FPV drone pilot
