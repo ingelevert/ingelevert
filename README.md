@@ -23,7 +23,7 @@
 
 ### 🚀 Projects & Passions
 - 🧠 **Data Tools for Marine Science**: Real-time data extraction & visualizations  
-- 🎬 **Summer Documentary (2025)**: Cooking up
+- 🎬 **Summer Documentary (2026)**: Cooking up
 
 ---
 
