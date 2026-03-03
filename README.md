@@ -6,7 +6,7 @@
 ---
 
 ### 🌍 About Me
-- 🎓 Marine Sciences student planning to do a Master in Applied Data Science
+- 🎓 Marine Sciences student
 - 💻 Learning Python, R, and in general building tools that solve real problems
 - 📸 Analog & digital cinematographer
 - 🚐 adventurer and FPV drone pilot
@@ -14,9 +14,8 @@
 ---
 
 ### 🔧 Tech Stack
-- 🐍 Python, R, SQL
-- 📦 GitHub, Git, VS Code, GitHub Actions
-- 📊 pandas, ggplot2, seaborn, matplotlib
+- 🐍 Python, R, SQL, HTML, LATEX
+- 📊 pandas, ggplot2, seaborn, matplotlib etc. etc.
 - 📽️ DaVinci Resolve, Super 8, Self build FPV, Fuji X-T3
 
 ---
